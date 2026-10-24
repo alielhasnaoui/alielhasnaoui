@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm ali elhasnaoui, an IT enthusiast from Morocco 🇲🇦 who enjoys learning how technology works and building things along the way.
+I'm Ali Elhasnaoui, an IT enthusiast from Morocco 🇲🇦 who enjoys learning how technology works and building things along the way.
 
 💻 I'm currently learning **Linux, networking, Python, and IT automation**, while working towards a future career in **IT System Administration / System Integration**.
 
