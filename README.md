@@ -2,7 +2,7 @@
 
 I'm Ali Elhasnaoui, an IT enthusiast from Morocco 🇲🇦 who enjoys learning how technology works and building things along the way.
 
-💻 I'm currently learning **Linux, networking, Python, and IT automation**, while working towards a future career in **IT System Administration / System Integration**.
+💻 I'm currently learning **Linux, networking, Python, and IT automation**, with a strong interest in **system administration and IT infrastructure**.
 
 🖥️ I enjoy experimenting with computers, networks, Linux and different IT projects — and I'm always curious to learn something new.
 
